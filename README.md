@@ -1,4 +1,4 @@
-# **Arduino UDP Servo Controller - Explanation**
+# **Arduino UDP Servo Controller - UNTESTED**
 
 ## **How It Works**
 1. **Wi-Fi Setup:**  
